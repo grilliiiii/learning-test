@@ -1,8 +1,7 @@
 #include <rpcWiFi.h>
 #include <millisDelay.h>
-#include <Wire.h>
-#include "RTC_SAMD51.h"
-#include "DateTime.h"
+
+
  
  
 const char ssid[] = "Your-network"; // add your required ssid
