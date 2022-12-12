@@ -5,7 +5,7 @@
  
  
 const char ssid[] = "Your-network"; // add your required ssid
-const char password[] = "Your-password"; // add your own netywork password
+const char password2[] = "Your-password"; // add your own netywork password
  
 millisDelay updateDelay; // the update delay object. used for ntp periodic update.
  
