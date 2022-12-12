@@ -1,7 +1,7 @@
 #include <rpcWiFi.h>
 #include <millisDelay.h>
 
-
+// the setup function runs once when you press reset or power the board
  
  
 const char ssid[] = "Your-network"; // add your required ssid
